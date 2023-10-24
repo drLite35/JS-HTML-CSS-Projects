@@ -4,14 +4,14 @@ This repository contains a collection of small JavaScript projects.
 
 ## Table of Contents
 
-1. [Project 1: Snake Game](snake-game/README.md)
-2. [Project 2: Tic-Tac-Toe](tic-tac-toe/README.md)
+1. [Project 1: StopWatch]
+2. [Project 2: Tic-Tac-Toe]
 <!-- 3. [Project 3: Your Next Project](your-next-project/README.md) -->
 
-## Project 1: Snake Game
+## Project 1: StopWatch
 
-- [Project 1 README](snake-game/README.md)
-- Description: A classic Snake Game built in JavaScript.
+- [Project 1](https://github.com/Ovalelephant35/JavaScript-Projects/tree/main/Project-1-StopWatch)
+- Description: A classic StopWatch built in JavaScript.
 
 ## Project 2: Tic-Tac-Toe
 
