@@ -6,6 +6,7 @@ This repository contains a collection of small JavaScript projects.
 
 1. [Project 1: StopWatch]
 2. [Project 2: Rock-Paper-Scissors]
+3. [Project 3: Tic-Tac-Toe]
 <!-- 3. [Project 3: Your Next Project](your-next-project/README.md) -->
 
 ## Project 1: StopWatch
@@ -18,4 +19,7 @@ This repository contains a collection of small JavaScript projects.
 - [Project 2](https://github.com/Ovalelephant35/JavaScript-Projects/tree/main/Project-2-RockPaperScissors)
 - Description: A fun Rock-Paper Scissor game implemented in JavaScript.
 
+## Project 3: Tic-Tac-Toe
 
+- [Project 3](https://github.com/Ovalelephant35/JavaScript-Projects/tree/main/Project-3-TicTactToe)
+- Description: A Classic game of TicTacToe implemented in JavaScript.
