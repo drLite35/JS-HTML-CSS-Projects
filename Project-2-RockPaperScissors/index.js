@@ -40,6 +40,7 @@ function comptchoice(){
 }
 
 
+
 function num(text){
     let numb;
     if(text=="ROCK")numb=1;

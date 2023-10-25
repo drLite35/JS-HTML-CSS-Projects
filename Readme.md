@@ -21,5 +21,5 @@ This repository contains a collection of small JavaScript projects.
 
 ## Project 3: Tic-Tac-Toe
 
-- [Project 3](https://github.com/Ovalelephant35/JavaScript-Projects/tree/main/Project-3-TicTactToe)
+- [Project 3](https://github.com/Ovalelephant35/JavaScript-Projects/tree/main/Project-3-TicTacToe)
 - Description: A Classic game of TicTacToe implemented in JavaScript.
