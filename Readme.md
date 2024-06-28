@@ -4,9 +4,9 @@ This repository contains collection of projects using HTML-CSS-JavaScript.
 
 ## Table of Contents
 
-1. [Project 1: StopWatch]
-2. [Project 2: Rock-Paper-Scissors]
-3. [Project 3: Tic-Tac-Toe]
+1. [Project 1: StopWatch](#project-1-stopwatch)
+2. [Project 2: Rock-Paper-Scissors](#project-2-rock-paper-scissors)
+3. [Project 3: Tic-Tac-Toe](#project-3-tic-tac-toe)
 <!-- 3. [Project 3: Your Next Project](your-next-project/README.md) -->
 
 ## Project 1: StopWatch
